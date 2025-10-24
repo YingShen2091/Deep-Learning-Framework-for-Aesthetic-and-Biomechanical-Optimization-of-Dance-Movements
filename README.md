@@ -363,7 +363,7 @@ If you use this code for research, please cite:
   title={Deep Learning Framework for Aesthetic and Biomechanical Optimization of Dance Movements},
   author={Shen, Ying},
   journal={arXiv preprint},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -388,11 +388,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The dance community for dataset contributions
 - Paper authors for the innovative approach
 
-## 📧 Contact
 
-For questions or collaboration:
-- Email: your-email@example.com
-- GitHub Issues: [Create an issue](https://github.com/your-repo/issues)
 
 ## 🗺️ Roadmap
 
@@ -407,4 +403,4 @@ For questions or collaboration:
 
 ---
 
-**Note**: This implementation follows the methodology described in the paper "Deep Learning Framework for Aesthetic and Biomechanical Optimization of Dance Movements" (2024). All hyperparameters and architectural choices are based on the paper's specifications.
+**Note**: This implementation follows the methodology described in the paper "Deep Learning Framework for Aesthetic and Biomechanical Optimization of Dance Movements" (2025). All hyperparameters and architectural choices are based on the paper's specifications.
