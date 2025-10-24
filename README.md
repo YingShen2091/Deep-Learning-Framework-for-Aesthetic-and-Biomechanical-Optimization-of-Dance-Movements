@@ -2,7 +2,7 @@
 
 ## Deep Learning Framework for Aesthetic and Biomechanical Optimization of Dance Movements
 
-This repository contains a complete implementation of the deep learning framework described in the paper "Deep Learning Framework for Aesthetic and Biomechanical Optimization of Dance Movements" by Ying Shen (2024).
+This repository contains a complete implementation of the deep learning framework described in the paper "Deep Learning Framework for Aesthetic and Biomechanical Optimization of Dance Movements" by Ying Shen (2025).
 
 ## 📊 Key Results (from Paper)
 
