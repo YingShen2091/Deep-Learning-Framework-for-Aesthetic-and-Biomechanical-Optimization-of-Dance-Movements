@@ -1,0 +1,223 @@
+# Core Deep Learning Frameworks
+torch==2.1.0
+torchvision==0.16.0
+tensorflow==2.14.0  # Optional, for comparison
+keras==2.14.0
+
+# Scientific Computing
+numpy==1.24.3
+scipy==1.11.3
+pandas==2.1.3
+scikit-learn==1.3.2
+
+# Computer Vision
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+Pillow==10.1.0
+albumentations==1.3.1
+mediapipe==0.10.7
+
+# Pose Estimation
+# openpose - requires custom installation
+
+# Motion Capture Processing
+pymo==1.1.0  # For BVH files
+# c3d - pip install c3d
+
+# Deep Learning Utilities
+torchmetrics==1.2.0
+einops==0.7.0
+timm==0.9.12  # PyTorch Image Models
+
+# Reinforcement Learning
+gymnasium==0.29.1
+stable-baselines3==2.2.1
+ray[rllib]==2.8.1
+
+# Few-Shot Learning
+learn2learn==0.2.0
+higher==0.2.1
+# torchmeta==1.8.0  # Optional
+
+# Video Processing
+ffmpeg-python==0.2.0
+moviepy==1.0.3
+imageio==2.33.0
+imageio-ffmpeg==0.4.9
+
+# Data Storage and Processing
+h5py==3.10.0
+zarr==2.16.1
+dask==2023.12.0
+lmdb==1.4.1
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+bokeh==3.3.2
+
+# Audio Processing (for music synchronization)
+librosa==0.10.1
+pydub==0.25.1
+# essentia==2.1b6  # Optional
+
+# Experiment Tracking
+mlflow==2.9.2
+wandb==0.16.1
+tensorboard==2.15.1
+tensorboardX==2.6.2
+
+# Model Serving and Deployment
+fastapi==0.108.0
+uvicorn==0.25.0
+pydantic==2.5.2
+python-multipart==0.0.6
+
+# Model Optimization
+onnx==1.15.0
+onnxruntime==1.16.3
+# tensorrt==8.6.1  # NVIDIA GPU only
+# openvino==2023.2.0  # Intel optimization
+
+# Data Version Control
+dvc==3.38.1
+dvc-s3==3.0.1  # For S3 storage
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-xdist==3.5.0
+hypothesis==6.92.1
+locust==2.20.0
+
+# Code Quality
+black==23.12.1
+flake8==7.0.0
+pylint==3.0.3
+mypy==1.8.0
+isort==5.13.2
+pre-commit==3.6.0
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
+mkdocs==1.5.3
+mkdocs-material==9.5.3
+
+# Utilities
+tqdm==4.66.1
+pyyaml==6.0.1
+python-dotenv==1.0.0
+click==8.1.7
+rich==13.7.0
+typer==0.9.0
+
+# Database (optional)
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+pymongo==4.6.1
+redis==5.0.1
+
+# Cloud Storage (optional)
+boto3==1.34.11  # AWS
+google-cloud-storage==2.13.0  # GCP
+azure-storage-blob==12.19.0  # Azure
+
+# Monitoring and Logging
+prometheus-client==0.19.0
+elasticsearch==8.11.1
+loguru==0.7.2
+
+# Web Interface (optional)
+gradio==4.12.0
+streamlit==1.29.0
+
+# Distributed Training (optional)
+horovod==0.28.1
+deepspeed==0.12.6
+fairscale==0.4.13
+
+# Additional ML Libraries
+xgboost==2.0.3
+lightgbm==4.2.0
+catboost==1.2.2
+
+# Graph Neural Networks (optional)
+# torch-geometric==2.4.0
+# dgl==1.1.3
+
+# Jupyter Development
+jupyter==1.0.0
+jupyterlab==4.0.9
+ipywidgets==8.1.1
+notebook==7.0.6
+
+# System Monitoring
+psutil==5.9.6
+gpustat==1.1.1
+nvidia-ml-py==12.535.133
+
+# Configuration Management
+hydra-core==1.3.2
+omegaconf==2.3.0
+
+# API Documentation
+swagger-ui-bundle==1.1.0
+openapi-schema-validator==0.6.2
+
+# Security
+cryptography==41.0.7
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Date and Time
+python-dateutil==2.8.2
+pytz==2023.3.post1
+
+# HTTP Clients
+requests==2.31.0
+httpx==0.25.2
+aiohttp==3.9.1
+
+# Async Support
+asyncio==3.4.3
+aiofiles==23.2.1
+
+# Environment Management
+python-decouple==3.8
+
+# Additional Image Processing
+scikit-image==0.22.0
+imgaug==0.4.0
+
+# Math and Statistics
+statsmodels==0.14.1
+sympy==1.12
+
+# Natural Language Processing (for reports)
+nltk==3.8.1
+spacy==3.7.2
+
+# Caching
+diskcache==5.6.3
+joblib==1.3.2
+
+# Progress Bars and CLI
+alive-progress==3.1.5
+yaspin==3.0.1
+
+# File Format Support
+openpyxl==3.1.2  # Excel
+xlrd==2.0.1
+pyarrow==14.0.2  # Parquet
+tables==3.9.2  # HDF5
+
+# Profiling and Debugging
+line-profiler==4.1.2
+memory-profiler==0.61.0
+py-spy==0.3.14
+
+# Version for CUDA (adjust based on your CUDA version)
+# torch==2.1.0+cu121  # For CUDA 12.1
+# torchvision==0.16.0+cu121
